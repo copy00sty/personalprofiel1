@@ -1,2 +1,2 @@
-# personalprofiel1
-drop ko dito
+# this is my portfolio template number 1
+in case i forgot
